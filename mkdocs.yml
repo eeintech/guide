@@ -1,5 +1,8 @@
 site_name: The Electronics Design Guide for Best Practices and Workflow
 
+plugins:
+  - glightbox
+
 theme:
   name: material
   palette: 
@@ -24,5 +27,5 @@ theme:
     - navigation.indexes
 
 nav:
-  - index.md 
-  - Ideas and System Diagrams: diagram.md
+  - index.md
+  - Ideas and System Diagram: diagram.md
