@@ -42,6 +42,6 @@ The idea is to think that the circuit board you are designing is your **only** p
 
 ## The miscellaneous
 
-I'm not saying this guide is perfect for everyone, it will never be. I am attempting my best shot at describing how my ideal design flow is like in my mind, so you are welcome to critize it and give me feedback.
+I'm not saying this guide is perfect for everyone, it will never be. I am also not pretending I have the answers to everything and every team. I am attempting my best shot at describing how my ideal design flow is like in my mind, so you are welcome to critize it and give me feedback.
 
 With that said, let's dive into it.
