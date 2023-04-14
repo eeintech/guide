@@ -1,4 +1,10 @@
-site_name: Electronics Design Guide
+site_name: The Electronics Design Guide for Best Practices and Workflow
 
 theme:
   name: material
+  features:
+    - navigation.indexes
+
+nav:
+  - index.md 
+  - Ideas and System Diagrams: diagram.md
