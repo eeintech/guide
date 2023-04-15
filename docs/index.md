@@ -22,13 +22,12 @@ I would like to cover the full design worflow from an idea emerging in someone's
 Therefore, the structure of this guide is as follow:
 
 1. Gather ideas and organize them into clean-looking system diagrams
-0. Review and iterations of the system diagrams
 0. Pick components the right way
 0. Draw the most intuitive circuits
-0. Review and iterations of the circuits
 0. Setup the layout phase for success
-0. Review and iterations of the layout
+0. Review and iterations
 0. Validate the different levels of the circuit and system
+0. Be ready to certify
 
 Note that I don't intend to keep this structure stale if a better one comes around the corner.
 

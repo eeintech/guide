@@ -33,4 +33,4 @@ This part is up for grab depending how you, your team or company function, but i
 ## Proof of Concept
 
 This is an optional step but can lead to many discoveries before starting desiging new circuit boards.
-If you have access to existing boards, like evaluation kits, test out the functions of the circuit board you intend to design to find out if there is anything you haven't thought in the product specifications that cannot be met with your current system diagram.
+If you have access to existing boards, like controller-enabled platforms and evaluation kits, test out the functions of the circuit board you intend to design to find out if there is anything you haven't thought in the product specifications that cannot be met with your current system diagram.
