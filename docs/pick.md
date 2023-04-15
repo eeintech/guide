@@ -2,7 +2,8 @@
 
 We often underestimate how important it is to pick components for a new circuit boards.
 Think about it for a second: the decision you are making right now to decide on using such or such part will live on with you for the life of the circuit board you are designing. Why? Because changing later on is just too much effort!
-So unless you are energized as hell during the entire lenght of the development phase, do yourself a favor and think twice about using this component your eyes are on.
+
+Unless you are energized as hell during the entire length of the development phase, do yourself a favor and think twice about using this component your eyes are on.
 
 ## New is not always better (far from it)
 
@@ -20,6 +21,7 @@ Fair enough, let's pick a new one.
 Nothing more satisfying than shopping for a new toy, right?
 
 Here are the rules of the game:
+
 - Match the component specifications to your own.
 - Be sure you can buy it for the entire product life and not just right now.
 - Stay as far away as possible from components with a single manufacturer and/or supplier equivalent, regardless how awesome you think this component might be.
