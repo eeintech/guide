@@ -25,7 +25,7 @@ I have seen so many instance of circuit with their microcontroller drawn exactly
 
 Instead try this:
 
-<place holder for symbol rules>
+> place holder for symbol rules
 
 ## Purposeful part placement
 

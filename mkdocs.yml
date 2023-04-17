@@ -1,6 +1,7 @@
-site_name: The Electronics Design Guide for Best Practices and Workflow
+site_name: "Electronics design: The guide of good manners"
 
 plugins:
+  - search
   - glightbox
 
 theme:

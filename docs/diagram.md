@@ -6,7 +6,7 @@ I am going to assume you are in the execution team: you are responsible for one 
 The genesis of this product is full of ideas either in your head or from people throwing them at you.
 You do your research and get really excited about it, then you open your favorite electronics CAD tool to create a project and start the design process.
 
-![STOP](assets/images/stop.jpg)
+![STOP](assets/images/stop.png)
 
 ## Define
 
