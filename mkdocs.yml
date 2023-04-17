@@ -1,4 +1,4 @@
-site_name: "Electronics design: The guide of good manners"
+site_name: "Electronics design: The guide to good manners"
 
 plugins:
   - search
@@ -32,5 +32,11 @@ theme:
 nav:
   - index.md
   - Ideas and System Diagram: diagram.md
-  - Pick Components: pick.md
-  - Draw Circuit: draw.md
+  - Schematics:
+    - Right Component: s_pick.md
+    - Obvious Symbol: s_symbol.md
+    - Intuitive Circuit: s_circuit.md
+  - Layout:
+    - First Place: l_place.md
+    - Then Contraint: l_constraint.md
+    - At Last Route: l_route.md

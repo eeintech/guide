@@ -1,4 +1,4 @@
-# Picking components the right way
+# The schematics: picking components the right way
 
 We often underestimate how important it is to pick components for a new circuit boards.
 Think about it for a second: the decision you are making right now to decide on using such or such part will live on with you for the life of the circuit board you are designing. Why? Because changing later on is just too much effort!
