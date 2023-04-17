@@ -1,4 +1,6 @@
 site_name: "Electronics design: The guide to good manners"
+repo_url: https://github.com/eeintech/guide
+repo_name: eeintech/guide
 
 plugins:
   - search
@@ -8,6 +10,8 @@ theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
