@@ -44,3 +44,8 @@ nav:
     - First Place: l_place.md
     - Then Contraint: l_constraint.md
     - At Last Route: l_route.md
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
