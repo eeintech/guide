@@ -1,8 +1,8 @@
-# The schematics: the most intuitive circuits
+# The most intuitive circuits
 
 Everybody, even you, would hate looking at a circuit at a glimpse and have no clue what it does.
 
-## Page organization
+## The page organization
 
 It is one of the most obvious start to drawing intuitive schematics but nonetheless deserves a reminder.
 Leading your reader is uttermostly important as it is like reading a good book, you don't want to start from the end.
@@ -14,7 +14,7 @@ Suggestion:
 0. Intelligence (eg. microcontroller)
 0. Peripherals
 
-## Purposeful part placement
+## The purposeful component placement
 
 Each component in the circuit has a place it belongs. Why you said?
 

@@ -1,8 +1,9 @@
-# The layout: placement
+# The placement
 
 If you happen to skip right to routing, you'll encounter a whole world of hurt down the road. Do not be that person.
 
 Here's who you want to be:
+
 - understand your circuit well and how things flow
 - recreate this flow in your layout
 - deliver an awesomely designed board.
@@ -39,9 +40,9 @@ Regardless if you have to deal with high-sensitivity, high-voltage, high-frequen
 
 It's unavoidable, after connectors, large components are coming in as it is the best way to map out your board with the different circuits (eg. one large component = one circuit).
 
-Do **not** start placing decoupling capacitors before you are 100% certain that LQFP-100 package is in the right place.
+Do **not** start placing decoupling capacitors before you are 100% certain that the LQFP-100 package is in the right place.
 
-Run a mechanical check, do they all fit right?
+Run a mechanical check, do they fit alright?
 
 ### The "high" circuits
 
@@ -51,7 +52,7 @@ If you are unusure or want a second opinion, talk to your peers to see what they
 
 ### The understanding of where it belongs
 
-I touched on briefly [earlier](../s_circuit/#purposeful-part-placement), good schematics should lead the layout grouping parts that belong together. It is not always simple and there is never enough space on schematics pages. However, both the circuit designer and layout person should know where part be placed on the board. Meaningless part placement will lead to desastrous results and not accomplish the ultimate goal of creating a neatly designed circuit board.
+I touched on briefly [earlier](../s_circuit/#purposeful-part-placement), good schematics should lead the layout and help it by grouping parts that belong together. It is not always simple and there is never enough space on schematics pages. However, both the circuit designer and layout person should know where each part be placed on the board. Meaningless part placement will lead to desastrous results and not accomplish the ultimate goal of creating a neatly designed circuit board.
 
 ## The review
 

@@ -1,8 +1,8 @@
-# The schematics: obvious symbol in functional library
+# The symbols
 
 The first part of designing a circuit is to draw symbols for all your components, you want them as obvious as possible.
 
-## Symbol that flows right
+## The right flow
 
 What is the opposite of obvious is to draw them as their physical form, eg. their actual package on the board.
 The circuit is not the place for that, the circuit should make anybody understand what it does, not what it looks like physically on the board (there is the layout file for that).

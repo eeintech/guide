@@ -1,11 +1,18 @@
 site_name: "Electronics design: The guide to good manners"
+site_url: https://guide.eeinte.ch/
+site_description: "Electronics design: The guide to good manners"
+site_author: eeintech
+
+# Repository
 repo_url: https://github.com/eeintech/guide
 repo_name: eeintech/guide
 
+# Plugins
 plugins:
   - search
   - glightbox
 
+# Theme
 theme:
   name: material
   logo: assets/logo.png
@@ -32,18 +39,20 @@ theme:
         name: Switch to light mode
   features:
     - navigation.indexes
+    - navigation.tabs
 
+# Navigation
 nav:
   - index.md
-  - Ideas and System Diagram: diagram.md
-  - Schematics:
-    - Right Component: s_pick.md
-    - Obvious Symbol: s_symbol.md
-    - Intuitive Circuit: s_circuit.md
-  - Layout:
-    - First Place: l_place.md
-    - Then Contraint: l_constraint.md
-    - At Last Route: l_route.md
+  - diagram.md
+  - The schematics:
+    - The component picking: s_pick.md
+    - The symbols: s_symbol.md
+    - The most intuitive circuits: s_circuit.md
+  - The layout:
+    - The placement: l_place.md
+    - The contraints: l_constraint.md
+    - The routing: l_route.md
 
 # Extensions
 markdown_extensions:

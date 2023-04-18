@@ -1,11 +1,11 @@
-# The schematics: picking components the right way
+# The component picking
 
 We often underestimate how important it is to pick components for a new circuit boards.
 Think about it for a second: the decision you are making right now to decide on using such or such part will live on with you for the life of the circuit board you are designing. Why? Because changing later on is just too much effort!
 
 Unless you are energized as hell during the entire length of the development phase, do yourself a favor and think twice about using this component your eyes are on.
 
-## New is not always better (far from it)
+## The conservative approach to new
 
 This is not a competition. No, the new component you just found is not better just because it has more bells and whistles. Is it even available yet?
 
@@ -16,11 +16,11 @@ Picking a new component is ALWAYS more risky than using available and proven one
 You are 100% certain nothing fits but have you asked your colleagues?
 Fair enough, let's pick a new one.
 
-## Game on
+## The hunt is on
 
 Nothing more satisfying than shopping for a new toy, right?
 
-Here are the rules of the game:
+Here are the rules of the hunt:
 
 - Match the component specifications to your own.
 - Be sure you can buy it for the entire product life and not just right now.

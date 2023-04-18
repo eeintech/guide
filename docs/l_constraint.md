@@ -1,1 +1,1 @@
-# The layout: constraints
+# The constraints

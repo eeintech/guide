@@ -1,4 +1,9 @@
-# Introduction
+---
+hide:
+  - navigation
+---
+
+# The introduction
 
 I have observed that many of us, electronics designers, tend to rush to design new circuit boards because they are cheap and easy to manufacture, allowing many iterations and room for errors.
 
