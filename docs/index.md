@@ -36,7 +36,9 @@ If you aim to design and/or become a great electronics designer, you'll be aimin
 
 That is why in this guide I am using an aggressive mindset which intends to leave "chance" out of the picture, even though we all need luck for everything to come together perfectly well the first time.
 
-The idea is to think that the circuit board you are designing is your **only** possible iteration, because you don't have budget for another one, and you really, really want it to be successful.
+The idea is to think that the circuit board you are designing is your **only** possible iteration, because you can't afford another one, and you really, really want it to be successful on the first try.
+
+Obviously nothing forces you to follow any rule or suggestion in this guide, but I do hope it makes you reflect on it.
 
 ## The miscellaneous
 

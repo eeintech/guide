@@ -10,25 +10,34 @@ You do your research and get really excited about it, then you open your favorit
 
 ## Define
 
-Despite the urge to dive into the design process already, it requires you to define the main functions of each board, the different features and specifications you will need to meet.
+Despite the urge to dive into the design process already, it requires you to define the main functions of each board, the different features and specifications you'll be aiming for.
+
+If you're on a team or work with some people involved in the project, meet with them and write down everything, assign priorities to each feature, importance to each specification, etc.
+It is valid for solo work too, challenge yourself until you do have a clear view on what this product or project should do.
 
 ## Visualize
 
-Once you have gone through the definition phase, the next logical step is to represent the system with a neat looking block diagram which allwos everybody to quickly vizualize the different components and interaction between them.
+Now that you know your responsibilities, with words, then your task is to make a visual representation, starting with a neat looking system diagram. Visuals will help you and your team understand, at a glimpse, what is it that you will be designing.
+
+So do not skip this step, system and board block diagrams are a must and should allow anybody to quickly vizualize the different components and interaction between them.
+
+Any additional visual cue is welcome too, the more the merrier.
 
 ## Review
 
-Now that you have made this nice diagram:
+Now that you have made those nice diagrams:
 
 - Are all the functions captured by the different components?
 - Will the product specifications be met with this system?
 - Are there any missing feature?
 
-Share it with all the people involved in this designing the product and make them approve it.
+Share it with all the people involved in this designing the product and **make them approve it**, because you do not want to waste time working on something that is not the right thing.
 
 ## Plan
 
-This part is up for grab depending how you, your team or company function, but it is nonetheless important to layout the different phases of the development of the circuit boards.
+This part is up for grab depending how you, your team or company function, but it is nonetheless important to layout the different phases of the development of the circuit boards so that you are all onboard with the schedule.
+
+I have experienced counterless times unrealistic timelines for board development, it's almost unevitable as we all think we can make this happen seamlessly and then stress levels arise when things go south. Don't panic and keep your head in the game, there are more important things to worry about.
 
 ## Proof of Concept
 
