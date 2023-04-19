@@ -95,6 +95,14 @@ Have you ever read a book where there is text on top of text? No? So please, be 
 
 And as [previously mentioned](../s_symbol/#the-pin-orientation), keep the text orientation horizontal.
 
+### The part number
+
+Some CAD tools do not export symbol information to PDF, therefore it is very essential to indicate the part number of each symbol on the schematic so that the datasheet can easily be found.
+
+### The short description
+
+If the symbol does not indicate clearly its function (even after following [this rule](../s_symbol/#the-mystery-box)), it is STRONGLY recommended to add a note above or below the symbol to describe its function.
+
 ### The designators
 
 Best practice would be to annotate with leading digits being the page number. For instance, if you have 9 pages or less, use the first digit for the page number. If you have 99 pages or less, use the first two first digits for the page number. If you have 100 pages or more, I am not sure how it is even possible!
