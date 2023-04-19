@@ -22,8 +22,8 @@ Nothing more satisfying than shopping for a new toy, right?
 
 Here are the rules of the hunt:
 
-- Match the component specifications to your own.
+- Match the component specifications to your minimum set of requirements: extras are unecessary and can lead to undesired suprises.
+- Use the most generic components you find: the more generic the more likely it can be reused for other boards.
 - Be sure you can buy it for the entire product life and not just right now.
 - Stay as far away as possible from components with a single manufacturer and/or supplier equivalent, regardless how awesome you think this component might be.
-- Watch for the price tag at your desired volume.
-- Check around you: could it be possible someone else in your team may use it too?
+- Watch for the price tag, especially at your desired volume.
