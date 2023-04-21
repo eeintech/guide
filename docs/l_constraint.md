@@ -7,13 +7,27 @@ It might feel intimidating at first but when the machine is well oiled, you can 
 
 ## The PCB manufacturing capabilities
 
-Have you checked that the PCB vendor can drill and plate this via size you intended to use?
-Have you checked what is the minimum supported trace width?
-Have you checked that they can manufacture the stackup you've setup?
+- Have you checked that the PCB vendor can drill and plate this via size you intended to use?
+- Have you checked what is the minimum supported trace width?
+- Have you checked that they can manufacture the stackup you picked?
 
 Those are all the common questions you should ask yourself while setting up your board constraints: if they can't make it then you can't use it, as simple as that.
+
+Therefore, head over to the PCB vendor's website, find their specs and import them into your board. If you can't find the information, do not assume and contact them to be certain.
 
 ## The signal integrity
 
 Last but not least, do not forget those "high" circuits [we've already placed](../l_place/#the-high-circuits).
 They need special consideration, and special consideration you should give them.
+
+Here's a non-exhaustive, example list of items to constraint:
+
+- trace resistance and thermals
+- trace width matches target signal impedance
+- differential pair intra and inter-spacing
+- signal length and matching between clock and data
+- component and signal clearance and isolation with other traces
+- return path (ground return)
+
+You should check what is required for your circuit to function properly and build your own list.
+Then, with constraints in place, the layout person won't be able to deviate from the specified values during routing without getting DRC errors and warnings.

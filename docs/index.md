@@ -27,11 +27,10 @@ I would like to cover the full design worflow from an idea emerging in someone's
 Therefore, the structure of this guide is as follow:
 
 1. Gather ideas and organize them into clean-looking system diagrams
-0. Pick components the right way and draw the most intuitive circuits
+0. Pick components the right way and draw the most intuitive symbols and circuits
 0. Setup the layout phase for success: first place and constraint then route 
 0. Review and iterate
 0. Validate the different levels of the circuit and system
-0. Brace yourself for certification
 
 Note that I don't intend to keep this structure stale if a better one comes around the corner.
 

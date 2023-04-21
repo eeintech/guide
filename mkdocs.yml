@@ -53,6 +53,8 @@ nav:
     - The placement: l_place.md
     - The contraints: l_constraint.md
     - The routing: l_route.md
+  - review.md
+  - validation.md
 
 # Extensions
 markdown_extensions:
