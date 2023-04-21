@@ -90,7 +90,8 @@ Be certain you know when to use which:
 
 This question should never, never come up: which voltage is that rail supposed to be?
 
-Whatever the voltage is, name your power port or label with the voltage value!
+Whatever the voltage is, name your power port or label with the voltage value, and avoid `VDD` or `VBAT` or `VIN` at all cost.
+My preferred method is to separate the decimal part from the main voltage value with the voltage unit `V`, for instance a 1.9V rail would have a port named `1V9` (but naming it `1.9V` is fine too).
 
 ## The text
 

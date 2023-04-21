@@ -13,10 +13,6 @@ Have you checked that they can manufacture the stackup you've setup?
 
 Those are all the common questions you should ask yourself while setting up your board constraints: if they can't make it then you can't use it, as simple as that.
 
-## The smooth assembly
-
-Sweet PCB assembly but why is the 1.8V rail shorted to ground?
-
 ## The signal integrity
 
 Last but not least, do not forget those "high" circuits [we've already placed](../l_place/#the-high-circuits).
