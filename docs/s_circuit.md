@@ -86,6 +86,12 @@ Be certain you know when to use which:
 - hierarchical port: use to inter-connect symbols between pages
 - global net: avoid at all cost, you want to control the source and destination of that net and the global context can be prone to mistake.
 
+### The power port
+
+This question should never, never come up: which voltage is that rail supposed to be?
+
+Whatever the voltage is, name your power port or label with the voltage value!
+
 ## The text
 
 ### The disentangling
@@ -97,11 +103,11 @@ And as [previously mentioned](../s_symbol/#the-pin-orientation), keep the text o
 
 ### The part number
 
-Some CAD tools do not export symbol information to PDF, therefore it is very essential to indicate the part number of each symbol on the schematic so that the datasheet can easily be found.
+Some CAD tools do not export symbol information to PDF, therefore it is very essential to indicate the part number of each symbol on the schematic so that the datasheet can easily be found via copy-pasting to your favorite browser.
 
 ### The short description
 
-If the symbol does not indicate clearly its function (even after following [this rule](../s_symbol/#the-mystery-box)), it is STRONGLY recommended to add a note above or below the symbol to describe its function.
+If the symbol does not indicate clearly its function (even after following [this rule](../s_symbol/#the-mystery-box)), it is STRONGLY recommended to add a note above or below the symbol to give an indication to the reader what is the circuit intended for.
 
 ### The designators
 
