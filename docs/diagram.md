@@ -33,6 +33,8 @@ Now that you have made those nice diagrams:
 
 Share it with all the people involved in this designing the product and **make them approve it**, because you do not want to waste time working on something that is not the right thing.
 
+More on this topic [in the next section](../review/).
+
 ## The planning
 
 This part is up for grab depending how you, your team or company function, but it is nonetheless important to layout the different phases of the development of the circuit boards so that you are all onboard with the schedule.

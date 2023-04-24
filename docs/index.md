@@ -47,7 +47,9 @@ Obviously nothing forces you to follow any rule or suggestion in this guide, but
 
 I would like to emphasize on the fact that this is **not** a technical guide. You won't find out if you should use linear versus switching regulators, 6-layer PCB over 4-layer PCB, which routing technique to use, etc. This guide aim to stay generic on methods how to design a circuit board from the start to the end and give guidelines to get you on the right path.
 
-All in all, I'm not saying this guide is perfect for everyone, it will never be. I am also not pretending I have the answers to everything and every team. I am attempting my best shot at describing how my ideal design flow is like in my mind, so you are welcome to critize it and give me feedback in the comments section below.
+All in all, I'm not saying this guide is perfect for everyone, it will never be. I am not pretending I have the answers to everything and every team. And I am definitely not going to take responsabilities for any misuse of the information presented here!
+
+I am attempting my best shot at describing how an ideal design flow is in my mind, so you are welcome to critize it and give me feedback in the comments section below.
 
 With that said, [let's dive into it](../diagram/).
 

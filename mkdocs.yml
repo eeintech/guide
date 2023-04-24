@@ -50,6 +50,7 @@ theme:
 nav:
   - index.md
   - diagram.md
+  - review.md
   - The schematics:
     - The component picking: s_pick.md
     - The symbols: s_symbol.md
@@ -58,7 +59,6 @@ nav:
     - The placement: l_place.md
     - The contraints: l_constraint.md
     - The routing: l_route.md
-  - review.md
   - validation.md
 
 # Extensions
