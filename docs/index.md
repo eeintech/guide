@@ -1,6 +1,5 @@
 ---
-hide:
-  - navigation
+comments: true
 ---
 
 # The introduction
@@ -44,8 +43,12 @@ The idea is to think that the circuit board you are designing is your **only** p
 
 Obviously nothing forces you to follow any rule or suggestion in this guide, but I do hope it makes you reflect on it.
 
-## The miscellaneous
+## The disclaimer
 
-I'm not saying this guide is perfect for everyone, it will never be. I am also not pretending I have the answers to everything and every team. I am attempting my best shot at describing how my ideal design flow is like in my mind, so you are welcome to critize it and give me feedback.
+I would like to emphasize on the fact that this is **not** a technical guide. You won't find out if you should use linear versus switching regulators, 6-layer PCB over 4-layer PCB, which routing technique to use, etc. This guide aim to stay generic on methods how to design a circuit board from the start to the end and give guidelines to get you on the right path.
 
-With that said, let's dive into it.
+All in all, I'm not saying this guide is perfect for everyone, it will never be. I am also not pretending I have the answers to everything and every team. I am attempting my best shot at describing how my ideal design flow is like in my mind, so you are welcome to critize it and give me feedback in the comments section below.
+
+With that said, [let's dive into it](../diagram/).
+
+## The feedback

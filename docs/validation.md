@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # The validation
 
 The board is here, rejoice!  

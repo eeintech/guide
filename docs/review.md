@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # The review
 
 Even the most experienced designer in the world can't escape it: we **all** make mistakes.  

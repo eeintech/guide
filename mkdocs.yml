@@ -15,6 +15,7 @@ plugins:
 # Theme
 theme:
   name: material
+  custom_dir: _includes/overrides
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
@@ -40,6 +41,10 @@ theme:
   features:
     - navigation.indexes
     - navigation.tabs
+    - navigation.footer
+    - navigation.top
+    - toc.integrate
+    - toc.follow
 
 # Navigation
 nav:

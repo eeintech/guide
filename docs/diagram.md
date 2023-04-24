@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # The block diagram
 
 It starts here: you, your colleagues or your company got many ideas about making a brand new exciting product and it involves designing one or more circuit boards interacting together.
