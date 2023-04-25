@@ -4,7 +4,7 @@ comments: true
 
 # The introduction
 
-I have observed that many of us, electronics designers, tend to rush to design new circuit boards because they are cheap and easy to manufacture, allowing many iterations and room for errors.
+I have observed that many of us, electronic designers, tend to rush to design new circuit boards because they are cheap and easy to manufacture, allowing many iterations and room for errors.
 
 The main oversights I have noticed are:
 
@@ -18,7 +18,7 @@ The main oversights I have noticed are:
 From hobbyist to experienced product design teams, those shortcomings can be present in some degrees.
 Just spending a bit time on electrical forums unravels a world where the lack of technical knowledge is not the only the problem but rather one of the points listed above.
 
-In this guide, I will touch on what I believe are the best practices and manners to adopt for anybody inside or entering the world of electronics design, in order to get rid off those bad habits and improve our efficiency.
+In this guide, I will touch on what I believe are the best practices and manners to adopt for anybody inside or entering the world of electronic design, in order to get rid off those bad habits and improve our efficiency.
 
 ## The structure
 
@@ -35,7 +35,7 @@ I believe this design workflow should apply to hobbyist project too.
 
 ## The mindset
 
-If you aim to design and/or become a great electronics designer, you'll be aiming for excellence at every corner. This is why, in this guide, I stick to an aggressive approach which intends to leave "chance" out of the picture, even though we all need luck for everything to come together perfectly well the first time around. The idea is to think that the circuit board you are designing is your **only** possible iteration, because you can't afford another one, and you really, really want it to be successful on the first try.
+If you aim to design and/or become a great electronic designer, you'll be aiming for excellence at every corner. This is why, in this guide, I stick to an aggressive approach which intends to leave "chance" out of the picture, even though we all need luck for everything to come together perfectly well the first time around. The idea is to think that the circuit board you are designing is your **only** possible iteration, because you can't afford another one, and you really, really want it to be successful on the first try.
 
 Obviously nothing forces you to follow any rule or suggestion in this guide, but I do hope it makes you reflect on it.
 

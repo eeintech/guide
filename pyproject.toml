@@ -1,16 +1,16 @@
 [tool.poetry]
-name = "eeguide"
-version = "0.1.0"
-description = "Electronics Design Guide"
+name = "guide.eeinte.ch"
+version = "1.0.0"
+description = "Electronic designs: The guide to good manners"
 authors = ["eeintech <eeintech@eeinte.ch>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-mkdocs-material = "^9.1.6"
+mkdocs-material = "^9.1.8"
 
 [tool.poetry.dev-dependencies]
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core>=1.5.2"]
 build-backend = "poetry.core.masonry.api"
