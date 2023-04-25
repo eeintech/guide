@@ -4,11 +4,11 @@ Even the most experienced designer in the world can't escape it: mistakes are in
 
 ## The peers
 
-We all have designed different products and boards with various features working in different environments. Using the combined experience of your coworkers is **a must** to avoid repeating errors they might have done in the past, and alert you before it is too late!
+We all have designed different products and boards with various features working in different environments. Using the combined experience of your coworkers is **a must** to avoid repeating errors that you or they might have done in the past, and alert you before it is too late!
 
 As a designer reviewing circuits and layout, you should feel the urge to go over it like it is your own and pay attention to every detail. There is no such thing as bad feedback and it is always better to get challenged **now** than realizing you were too proud on making the change which is now costing a delay to the product launch.
 
-If something in the circuit isn't clear to your coworker, it could be that you did not make it self-explanatory. In this case, you should revisit [this section](../s_circuit/).
+If something in the circuit isn't clear to your coworker, it could be that you did not make it self-explanatory. In this case, you should visit [this section](../s_circuit/) for ways to improve it.
 
 Go ahead and create separate review sessions with your peers for:
 
