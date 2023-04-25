@@ -4,8 +4,8 @@ site_description: "Electronic designs: The guide to good manners"
 site_author: eeintech
 
 # Repository
-repo_url: https://github.com/eeintech/guide
-repo_name: eeintech/guide
+# repo_url: https://github.com/eeintech/guide
+# repo_name: eeintech/guide
 
 # Plugins
 plugins:
@@ -60,6 +60,9 @@ nav:
     - The contraints: l_constraint.md
     - The routing: l_route.md
   - validation.md
+
+copyright: >
+  Copyright &copy; 2023 – <a target="_blank" href="https://github.com/eeintech">eeintech</a>
 
 # Extensions
 markdown_extensions:
